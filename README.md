@@ -535,24 +535,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📧 Contact
-
-For questions about this submission:
-- **Email:** [your.email@example.com]
-- **GitHub:** [github.com/yourusername]
-- **LinkedIn:** [linkedin.com/in/yourprofile]
-
----
-
 ## 📅 Submission Details
 
-- **Candidate:** [Your Name]
+- **Candidate:** Pratiksha Mohite
 - **Position:** AI Research Intern
-- **Submission Date:** [Current Date]
+- **Submission Date:** 19/02/2026
 - **Total Development Time:** 4 days (as specified)
 - **Total Lines of Code:** ~2,400 (excluding comments)
 - **Total Comments:** ~800 lines (documentation)
 
 ---
 
-*Built with ❤️ for the AI Research Intern Technical Assessment*
