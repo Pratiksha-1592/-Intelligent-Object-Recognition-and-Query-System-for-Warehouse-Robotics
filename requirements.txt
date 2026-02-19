@@ -1,0 +1,27 @@
+# ============================================================
+# AI Research Intern - Technical Assessment
+# Requirements for Warehouse Robot Intelligence System
+# ============================================================
+
+# Computer Vision (Part 1)
+opencv-python-headless>=4.8.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+Pillow>=9.5.0
+
+# Machine Learning (Part 2)
+torch>=2.0.0
+torchvision>=0.15.0
+scikit-learn>=1.3.0
+seaborn>=0.12.0
+
+# RAG System (Part 3)
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.4
+
+# Additional utilities
+pandas>=2.0.0
+tqdm>=4.65.0
+
+# Note: All packages are compatible with Google Colab
+# No GPU required - all parts run efficiently on CPU
